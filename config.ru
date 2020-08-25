@@ -297,6 +297,7 @@ $ git push</pre>
                     <li><a href="http://stackoverflow.com/questions/tagged/openshift">Stack Overflow questions for OpenShift</a></li>
                     <li><a href="http://git-scm.com/documentation">Git documentation</a></li>
                     <li><a href="http://google.com">1:49 PM CST update - google.com</a></li>
+                    <li><a href="http://google.com">2:08 PM CST update - google.com</a></li>
                   </ul>
 
 
